@@ -28,7 +28,7 @@ int d=0;
 
 这是分割线
 
-这是链接：[简书链接](http://jianshu.com)  
+这是链接：[简书链接](http://www.jianshu.com)  
 这是图片链接：  
 ![截图](./123.png "区块链")  
 段落1  
